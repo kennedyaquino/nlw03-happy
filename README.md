@@ -25,6 +25,6 @@
       <li>TypeSript</li>
     </ol>
     <h2 id="license-1">📝 Licença</h2>
-    <p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="#">LICENSE</a> para mais detalhes.</p>
+    <p>Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/kennedyaquino/nlw03-happy/blob/main/LICENSE">LICENSE</a> para mais detalhes.</p>
   </div>
 </div>

@@ -1,13 +1,14 @@
-{
+module.exports = {
     "type": "sqlite",
     "database": "./src/database/database.sqlite",
     "migrations": [
-        "./src/database/migrations/*.ts"
+        "./build/database/migrations/*.js"
     ],
     "entities": [
-        "./src/models/*.ts"
+        "./build/models/*.js"
     ],
     "cli": {
         "migrationsDir": "./src/database/migrations"
     }
 }
+

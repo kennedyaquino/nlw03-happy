@@ -16,6 +16,8 @@
   <div>
     <h2 id="projeto-1">💻 Projeto</h2>
     <p>O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional, facilitando a localização e as visitas.</p>
+    <br>
+    <p><a href="https://nlw3-happy-kennedy.netlify.app/"></a>Projeto em produção!</p>
     <h2 id="tecnologias-1">🚀 Tecnologias</h2>
     <ol>
       <li>Node.js</li>
